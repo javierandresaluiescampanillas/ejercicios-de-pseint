@@ -1,0 +1,55 @@
+1.Algoritmo para hacer un gazpacho
+
+1-.Comprar/tener ingredientes y mesa con cubiertos y respectivos recipientes (pepino, tomate, aceite, pimiento y vinagre).
+
+2-.Preparar el gazpacho y la mesa:
+2.1-Reunir ingredientes y repartir la cubertería junto con los recipientes adecuados.
+2.1.2-Picar el tomate, pepino y pimiento.
+2.2-Meter los trozos en una batidora.
+
+3-.Agregar aceite, vinagre y agua.
+4-.Enfreiar en la nevera.
+5-.Servir el gazpacho en cuencos para cada persona.
+6-.Tomar el gazpacho.
+
+2.Algoritmo para limpiar el coche
+
+1-.Prepararse el examen teórico de conducir.
+2-.Examinarse del examen teórico.
+3-.Tener prácticas del examen práctico.
+4-.Examinarse del examen práctico (y aprobarlo o repetirlo).
+5-.Conseguir el carnet de conducir.
+6-.Tener coche/comprarlo.
+7-.Tener/conseguir dinero para un pase de lavado en una gasolinera.
+8-.Desplazarse a la gasolinera.
+9-.Aparcarlo.
+10-.Comprar ticket de lavado de coche.
+11-.Dirigirse a la lavadora de coche automática.
+12-.Introducir pase picado en la máquina del lavado de coche.
+13-.Retirar el coche de la máquina.
+14-.Llevar el coche a la zona de aspirarodras.
+15-.Aparcarlo.
+16-.Sacar alfombrillas.
+17-.Sacudir alfombrillas.
+18-.Dejarlas fuera apoyadas.
+19-.Alquilar la aspiradora con dinero.
+20-.Usar la aspiradora por dentro.
+21-.Devolver la aspiradora.
+22-.Reponer las alfombrillas.
+
+3.Algoritmo para calcular la nota final del curso a partir de las notas de los 3 trimestres.
+
+1-.Estar/apuntarse en un curso.
+2-.Estudiar/prepararse.
+3-.Examinarse (x veces durante cada trimestre).
+4-.Correcciónes del profesor.
+
+5-.Hacer medias de cada asignatura (según los criterios de evaluación).
+5.1-Sumar las notas y dividir según porcentajes de los criterios de evaluación.
+5.2-Sacar la media.
+
+6-.Hacer media de cada trimestre.
+6.1-Sumar notas de cada asignatura.
+6.2-Dividir entre el numero de asignaturas.
+
+7-.Hacer media de los 3 trimestres.
