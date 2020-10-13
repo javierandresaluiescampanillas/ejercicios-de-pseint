@@ -1,17 +1,17 @@
 /**
- * Ejercicio 4 de la relación 4.
+ * Ejercicio 4 de la relaciÃ³n 4.
  *
- * @author Javier Andrés Domínguez
+ * @author Javier AndrÃ©s DomÃ­nguez
  */
 public class Ejercicio4 {
   public static void main(String[] args) {
-    System.out.println("Lunes\tMartes\tMiérc.\tJueves.\tViernes");
+    System.out.println("Lunes\tMartes\tMiÃ©rc.\tJueves.\tViernes");
     System.out.println("======\t=======\t======\t=======\t=======");
-    System.out.println("PROG\tPROG\tPROG\tPROG \tSIN");
-    System.out.println("PROG\tPROG\tPROG\tPROG\tSIN");
-    System.out.println("ED\tSIN\tSIN\tLM\tBDATO");
-    System.out.println("FOL\tSIN\tSIN\tLM\tBDATO");
-    System.out.println("FOL\tBDATO\tED\tBDATO\tED");
-    System.out.println("FOL\tBDATO\tED\tBDATO\tED");
+    System.out.println("ED\tPRO\tPRO\tPRO\tFOL");
+    System.out.println("ED\tPRO\tPRO\tLM\tFOL");
+    System.out.println("ED\tLM\tPRO\tLM\tFOL");
+    System.out.println("PRO\tLM\tBBDD\tSINF\tBSINF");
+    System.out.println("PRO\tBBDD\tBBDD\tSINF\tSINF");
+    System.out.println("PRO\tBBDD\tBBDD\tSINF\tSINF");
   }
 }
