@@ -10,7 +10,7 @@ public class Ejercicio4 {
     System.out.println("ED\tPRO\tPRO\tPRO\tFOL");
     System.out.println("ED\tPRO\tPRO\tLM\tFOL");
     System.out.println("ED\tLM\tPRO\tLM\tFOL");
-    System.out.println("PRO\tLM\tBBDD\tSINF\tBSINF");
+    System.out.println("PRO\tLM\tBBDD\tSINF\tSINF");
     System.out.println("PRO\tBBDD\tBBDD\tSINF\tSINF");
     System.out.println("PRO\tBBDD\tBBDD\tSINF\tSINF");
   }
