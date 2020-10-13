@@ -1,10 +1,10 @@
 /**
- * Ejercicio 1 de la relación 1
+ * Ejercicio 1 de la relaciÃ³n 1.
  *
- * @author Javier Andrés Domínguez
+ * @author Javier AndrÃ©s DomÃ­nguez
  */
 public class Ejercicio1 {
   public static void main(String[] args) {
-    System.out.println("Javier Andrés Domínguez");
+    System.out.println("Javier AndrÃ©s DomÃ­nguez");
   }
 }
