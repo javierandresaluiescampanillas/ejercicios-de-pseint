@@ -5,13 +5,13 @@
  */
 public class Ejercicio4 {
   public static void main(String[] args) {
-    System.out.println("Lunes\tMartes\tMiérc.\tJueves.\tViernes");
+    System.out.println("Lunes\t Martes\t Miérc.\tJueves.\t Viernes");
     System.out.println("======\t=======\t======\t=======\t=======");
-    System.out.println("ED\tPRO\tPRO\tPRO\tFOL");
-    System.out.println("ED\tPRO\tPRO\tLM\tFOL");
-    System.out.println("ED\tLM\tPRO\tLM\tFOL");
-    System.out.println("PRO\tLM\tBBDD\tSINF\tSINF");
-    System.out.println("PRO\tBBDD\tBBDD\tSINF\tSINF");
-    System.out.println("PRO\tBBDD\tBBDD\tSINF\tSINF");
+    System.out.println("EED\t PRO\t PRO\t PRO\t FOL");
+    System.out.println("LM\t PRO\t PRO\t LM\t FOL");
+    System.out.println("LM\t ED\t PRO\t LM\t FOL");
+    System.out.println("PRO\t EED\t BBDD\t SINF\t SINF");
+    System.out.println("PRO\t BBDD\t BBDD\t SINF\t SINF");
+    System.out.println("BBDD\t BBDD\t BBDD\t SINF\t SINF");
   }
 }
